@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "18b5a8dcb4048c997990b972aee457ed65d77ee861a17869504081300010b85c",
+    "uid": "R9W0NPIMU",
+    "map": "deathrun_astro",
+    "category": 11,
+    "time": 1754,
+    "playerSteamId": "STEAM_0:0:1181305",
+    "timestamp": "2025-09-22T20:54:13.000Z",
+    "zipFilename": "00001754_STEAM_0_0_1181305_20250922-205413.zip",
+    "path": "deathrun_astro/00001754_STEAM_0_0_1181305_20250922-205413.zip",
+    "archivedAt": "2025-09-23T04:45:07.546Z"
+  },
+  {
     "demFileHash": "0355729e917851bb9955a30d8411cf74401689733c74b67c2a4cf7cc46fceafc",
     "uid": "OLENI8FZM",
     "map": "speedrun_runners",
