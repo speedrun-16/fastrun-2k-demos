@@ -1,15 +1,15 @@
 [
   {
-    "demFileHash": "796d439c87183802ad9a6fa09c3e3c8ce6a842171db568be1171e9487184b9c8",
-    "uid": "SFZ10SYRB",
+    "demFileHash": "3c5269b113ffc09042089420cfd1b533d32907076145a5872bf2cc46ee8aded8",
+    "uid": "MHKNLIPK7",
     "map": "deathrun_easy_v1",
     "category": 11,
-    "time": 6614,
+    "time": 6172,
     "playerSteamId": "STEAM_0:1:29970948",
-    "timestamp": "2025-09-23T04:54:29.000Z",
-    "zipFilename": "00006614_STEAM_0_1_29970948_20250923-045429.zip",
-    "path": "deathrun_easy_v1/00006614_STEAM_0_1_29970948_20250923-045429.zip",
-    "archivedAt": "2025-09-23T04:54:40.042Z"
+    "timestamp": "2025-09-23T04:56:52.000Z",
+    "zipFilename": "00006172_STEAM_0_1_29970948_20250923-045652.zip",
+    "path": "deathrun_easy_v1/00006172_STEAM_0_1_29970948_20250923-045652.zip",
+    "archivedAt": "2025-09-23T04:57:20.037Z"
   },
   {
     "demFileHash": "18b5a8dcb4048c997990b972aee457ed65d77ee861a17869504081300010b85c",
