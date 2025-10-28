@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "662072a5f127a6ad2e5fa580f50f9570adf6887c618af8c0c81a5927de782531",
+    "uid": "NDR5ZKY3I",
+    "map": "speedrun_tr",
+    "category": 11,
+    "time": 6604,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-10-27T19:24:07.000Z",
+    "zipFilename": "00006604_STEAM_0_1_84733295_20251027-192407.zip",
+    "path": "speedrun_tr/00006604_STEAM_0_1_84733295_20251027-192407.zip",
+    "archivedAt": "2025-10-28T00:00:03.067Z"
+  },
+  {
     "demFileHash": "18be74b968417e349bb3879d807d254e58ca1613ef643665dda51b52e6e71622",
     "uid": "HDBVYV3Z0",
     "map": "deathrun_chemical",
