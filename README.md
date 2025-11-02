@@ -11,9 +11,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-09-23 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2025-09-14 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-10-27 |
+| [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2025-11-02 |
 
 ---
 
 ### Statistics
-- Total Maps: **5**
-- Total Demos: **6**
+- Total Maps: **6**
+- Total Demos: **7**
