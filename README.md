@@ -11,6 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-09-23 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-11-11 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
+| [speedrun_chemical](./speedrun_chemical) | 1 | 2025-11-12 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2025-09-14 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-10-27 |
@@ -19,5 +20,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **9**
-- Total Demos: **10**
+- Total Maps: **10**
+- Total Demos: **11**
