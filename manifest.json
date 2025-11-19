@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "7f9dc7a80cba00736fed07c50aca96c3e6e593ba9298f88bea1e51f406f63aab",
+    "uid": "ND4PZ7SPC",
+    "map": "speedrun_mnogostrafe2",
+    "category": 11,
+    "time": 7253,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-19T17:56:06.000Z",
+    "zipFilename": "00007253_STEAM_0_1_796767048_20251119-175606.zip",
+    "path": "speedrun_mnogostrafe2/00007253_STEAM_0_1_796767048_20251119-175606.zip",
+    "archivedAt": "2025-11-19T18:00:22.790Z"
+  },
+  {
     "demFileHash": "689674e99d5ee919ce906061681302090c67eaa1fb70042bb7b2fc1af4548909",
     "uid": "RZKQXX2CQ",
     "map": "speedrun_voidrun",
