@@ -6,6 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
+| [deathrun_arctic](./deathrun_arctic) | 1 | 2025-12-20 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_chemical](./deathrun_chemical) | 2 | 2025-10-03 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-09-23 |
@@ -24,5 +25,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **14**
-- Total Demos: **17**
+- Total Maps: **15**
+- Total Demos: **18**
