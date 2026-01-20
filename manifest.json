@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "8e4e2e382f8de5b40eaf716254b58887bd020ba02580eeff03baa122621af7a7",
+    "uid": "91GW476TN",
+    "map": "de_dust",
+    "category": 11,
+    "time": 3182,
+    "playerSteamId": "STEAM_0:0:133153190",
+    "timestamp": "2026-01-19T22:19:20.000Z",
+    "zipFilename": "00003182_STEAM_0_0_133153190_20260119-221920.zip",
+    "path": "de_dust/00003182_STEAM_0_0_133153190_20260119-221920.zip",
+    "archivedAt": "2026-01-20T00:00:00.684Z"
+  },
+  {
     "demFileHash": "bee4deccb82d2d1a0750943f9e3b1d06683f3c4625adf9256ded505d6ad6f7d3",
     "uid": "IEDTN3XX3",
     "map": "deathrun_arctic",
