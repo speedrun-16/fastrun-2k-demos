@@ -28,9 +28,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-10-27 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2025-11-02 |
 | [speedrun_voidrun](./speedrun_voidrun) | 1 | 2025-11-17 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 1 | 2026-05-05 |
 
 ---
 
 ### Statistics
-- Total Maps: **22**
-- Total Demos: **26**
+- Total Maps: **23**
+- Total Demos: **27**
