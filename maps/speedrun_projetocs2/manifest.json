@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_projetocs2",
+  "updatedAt": "2026-06-19T06:01:15.190319Z",
+  "runs": [
+    {
+      "uid": "QL32NO88P",
+      "rid": 61821,
+      "hash": "876ec34e3f83ab7ec06f990607b3940f164a3b310412313c6105892cf81f5045",
+      "t": 9713,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-07T13:06:32Z",
+      "zip": "00009713_STEAM_0_0_193002961_20260607-130632.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_projetocs2-20260607-#QL32NO88P.analysis.json",
+          "off": 83,
+          "size": 229822
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_projetocs2-20260607-#QL32NO88P.dem",
+          "off": 229978,
+          "size": 112369
+        },
+        {
+          "type": "replay",
+          "name": "61821.replay.xz",
+          "off": 342392,
+          "size": 28616
+        }
+      ]
+    }
+  ]
+}

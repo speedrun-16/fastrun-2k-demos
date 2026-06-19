@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_toni",
+  "updatedAt": "2026-06-19T06:01:15.190319Z",
+  "runs": [
+    {
+      "uid": "A7SJE5NY2",
+      "rid": 61312,
+      "hash": "eb55ff35e71e5b1e34a1953f6066e0ef2f679c66692b82e728f93ff518ba621b",
+      "t": 4676,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-06-05T18:44:53Z",
+      "zip": "00004676_STEAM_0_1_87291981_20260605-184453.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_toni-20260605-#A7SJE5NY2.analysis.json",
+          "off": 77,
+          "size": 128807
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_toni-20260605-#A7SJE5NY2.dem",
+          "off": 128951,
+          "size": 60142
+        },
+        {
+          "type": "replay",
+          "name": "61312.replay.xz",
+          "off": 189138,
+          "size": 14788
+        }
+      ]
+    }
+  ]
+}

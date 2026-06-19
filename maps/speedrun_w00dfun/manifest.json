@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_w00dfun",
+  "updatedAt": "2026-06-19T06:01:15.190319Z",
+  "runs": [
+    {
+      "uid": "XP975EUQ7",
+      "rid": 48912,
+      "hash": "3c0d5e1c088a1cabdfb7175bfe6d0c1f2c6196fbcf16e7e1725c5b6d4465e30a",
+      "t": 4820,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-05T20:40:23Z",
+      "zip": "00004820_STEAM_0_1_87291981_20260505-204023.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_w00dfun-20260505-#XP975EUQ7.analysis.json",
+          "off": 80,
+          "size": 128701
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_w00dfun-20260505-#XP975EUQ7.dem",
+          "off": 128851,
+          "size": 62521
+        },
+        {
+          "type": "replay",
+          "name": "48912.replay.xz",
+          "off": 191417,
+          "size": 14688
+        }
+      ]
+    }
+  ]
+}

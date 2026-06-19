@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_runners",
+  "updatedAt": "2026-06-19T06:01:15.190319Z",
+  "runs": [
+    {
+      "uid": "OLENI8FZM",
+      "rid": 3,
+      "hash": "0355729e917851bb9955a30d8411cf74401689733c74b67c2a4cf7cc46fceafc",
+      "t": 5363,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-09-14T04:40:03Z",
+      "zip": "00005363_STEAM_0_1_29970948_20250914-044003.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_runners-20250914-#OLENI8FZM.analysis.json",
+          "off": 80,
+          "size": 166823
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_runners-20250914-#OLENI8FZM.dem",
+          "off": 166973,
+          "size": 78265
+        },
+        {
+          "type": "replay",
+          "name": "3.replay.xz",
+          "off": 245279,
+          "size": 16064
+        }
+      ]
+    }
+  ]
+}
