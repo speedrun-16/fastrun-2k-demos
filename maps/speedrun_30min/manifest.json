@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_30min",
+  "updatedAt": "2026-08-17T00:00:10.679Z",
+  "runs": [
+    {
+      "uid": "T55GI120J",
+      "rid": 83390,
+      "hash": "9490ccd71b0749ac51f3a65c75aa6dbd92324080e4fb8ff76b86ac895499129c",
+      "t": 2744,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-16T18:51:47.000Z",
+      "zip": "00002744_STEAM_0_0_631815948_20260816-185147.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_30min-20260816-#T55GI120J.dem",
+          "off": 68,
+          "size": 59910
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_30min-20260816-#T55GI120J.analysis.json",
+          "off": 60056,
+          "size": 79623
+        },
+        {
+          "type": "replay",
+          "name": "83390.replay.xz",
+          "off": 139724,
+          "size": 10068
+        }
+      ]
+    }
+  ]
+}

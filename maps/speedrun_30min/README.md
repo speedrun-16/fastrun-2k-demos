@@ -1,4 +1,4 @@
-# speedrun_runners
+# speedrun_30min
 
 Personal best demo archive for this map in the 2K Run category.
 
@@ -6,7 +6,7 @@ Personal best demo archive for this map in the 2K Run category.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 2 |
+| Archived PBs | 1 |
 | Latest Update | 2026-08-16 |
 
 ## Structure
