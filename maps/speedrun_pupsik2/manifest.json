@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_pupsik2",
+  "updatedAt": "2026-08-18T05:11:20.060Z",
+  "runs": [
+    {
+      "uid": "POQ6UFN74",
+      "rid": 84255,
+      "hash": "62276d716fd0e3e70905c5fd0e3433d0a4dad5177d3c7855b18431ab4e7358f9",
+      "t": 5124,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-08-18T05:11:11.000Z",
+      "zip": "00005124_STEAM_0_1_29970948_20260818-051111.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_pupsik2-20260818-#POQ6UFN74.dem",
+          "off": 70,
+          "size": 87679
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_pupsik2-20260818-#POQ6UFN74.analysis.json",
+          "off": 87829,
+          "size": 179740
+        },
+        {
+          "type": "replay",
+          "name": "84255.replay.xz",
+          "off": 267614,
+          "size": 18072
+        }
+      ]
+    }
+  ]
+}

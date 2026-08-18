@@ -1,13 +1,19 @@
 {
   "category": 11,
   "categoryName": "2K Run",
-  "updatedAt": "2026-08-17T00:00:10.679Z",
+  "updatedAt": "2026-08-18T05:11:20.060Z",
   "maps": {
     "speedrun_voidrun": {
       "n": 1,
       "best": 21548,
       "at": "2025-11-17T03:25:20Z",
       "manifest": "maps/speedrun_voidrun/manifest.json"
+    },
+    "speedrun_pupsik2": {
+      "n": 1,
+      "best": 5124,
+      "at": "2026-08-18T05:11:11.000Z",
+      "manifest": "maps/speedrun_pupsik2/manifest.json"
     },
     "speedrun_pupsik": {
       "n": 1,

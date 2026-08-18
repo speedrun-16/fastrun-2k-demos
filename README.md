@@ -6,9 +6,9 @@ Personal best demo archive for the 2K Run category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 36 |
-| Archived PBs | 45 |
-| Latest Update | 2026-08-16 |
+| Maps | 37 |
+| Archived PBs | 46 |
+| Latest Update | 2026-08-18 |
 
 ## Structure
 
