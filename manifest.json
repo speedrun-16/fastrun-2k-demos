@@ -1,7 +1,7 @@
 {
   "category": 11,
   "categoryName": "2K Run",
-  "updatedAt": "2026-08-18T05:11:20.060Z",
+  "updatedAt": "2026-09-21T00:00:13.284Z",
   "maps": {
     "speedrun_voidrun": {
       "n": 1,
@@ -88,9 +88,9 @@
       "manifest": "maps/speedrun_mnogostrafe2/manifest.json"
     },
     "speedrun_1000fps_battle": {
-      "n": 4,
+      "n": 5,
       "best": 3426,
-      "at": "2026-06-07T13:23:50Z",
+      "at": "2026-09-20T18:12:48.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "speedrun_evidenz2": {
