@@ -1,7 +1,7 @@
 {
   "category": 11,
   "categoryName": "2K Run",
-  "updatedAt": "2026-09-21T00:00:13.284Z",
+  "updatedAt": "2026-11-16T18:00:04.681Z",
   "maps": {
     "speedrun_voidrun": {
       "n": 1,
@@ -188,6 +188,12 @@
       "best": 3354,
       "at": "2026-01-29T13:37:44Z",
       "manifest": "maps/speedrun_ramp-master_ex/manifest.json"
+    },
+    "speedrun_df_kool_mini7": {
+      "n": 1,
+      "best": 15474,
+      "at": "2026-11-16T17:11:27.000Z",
+      "manifest": "maps/speedrun_df_kool_mini7/manifest.json"
     },
     "speedrun_arc_maxfps": {
       "n": 1,

@@ -6,9 +6,9 @@ Map-level archive directory for the 2K Run category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 37 |
-| Archived PBs | 47 |
-| Latest Update | 2026-09-20 |
+| Maps | 38 |
+| Archived PBs | 48 |
+| Latest Update | 2026-11-16 |
 
 ## Structure
 
