@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_emevaelx3",
+  "updatedAt": "2026-11-22T00:00:00.737Z",
+  "runs": [
+    {
+      "uid": "QPHAG13EJ",
+      "rid": 98554,
+      "hash": "699f89d971b656686430973e1b554d0ae25040076a22139266a9656622931f38",
+      "t": 73144,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-11-21T21:44:54.000Z",
+      "zip": "00073144_STEAM_0_1_87291981_20261121-214454.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_emevaelx3-20261121-#QPHAG13EJ.dem",
+          "off": 72,
+          "size": 527653
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_emevaelx3-20261121-#QPHAG13EJ.analysis.json",
+          "off": 527807,
+          "size": 1359162
+        },
+        {
+          "type": "replay",
+          "name": "98554.replay.xz",
+          "off": 1887014,
+          "size": 198432
+        }
+      ]
+    }
+  ]
+}

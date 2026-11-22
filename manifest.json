@@ -1,7 +1,7 @@
 {
   "category": 11,
   "categoryName": "2K Run",
-  "updatedAt": "2026-11-16T18:00:04.681Z",
+  "updatedAt": "2026-11-22T00:00:00.737Z",
   "maps": {
     "speedrun_voidrun": {
       "n": 1,
@@ -134,6 +134,12 @@
       "best": 4676,
       "at": "2026-06-05T18:44:53Z",
       "manifest": "maps/speedrun_toni/manifest.json"
+    },
+    "speedrun_emevaelx3": {
+      "n": 1,
+      "best": 73144,
+      "at": "2026-11-21T21:44:54.000Z",
+      "manifest": "maps/speedrun_emevaelx3/manifest.json"
     },
     "deathrun_easy_v1": {
       "n": 1,
